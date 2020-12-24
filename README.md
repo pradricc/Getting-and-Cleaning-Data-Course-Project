@@ -1,2 +1,4 @@
-# Getting-and-Cleaning-Data-Course-Project
-Final project for Coursera
+The repo contains:
+- R script: run_analysis.R
+- code book: CodeBook.md
+- tidy dataset: ProjectDatasetTidy.txt
